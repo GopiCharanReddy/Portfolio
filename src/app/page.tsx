@@ -162,7 +162,7 @@ export default function Page() {
                   I like building things
                 </h2>
                 <p className="text-muted-foreground md:text-xl/relaxed lg:text-base/relaxed xl:text-xl/relaxed">
-                  Currently during my time in college, I attended multiple hackathons. People from around the
+                  I have attended & won in multiple hackathons. People from around the
                   country coming together and build incredible things in 24-hours. It was eye-opening and inspiring to see peers of my age building something cool and fun.
                 </p>
               </div>
@@ -207,8 +207,7 @@ export default function Page() {
                 >
                   on twitter
                 </Link>{" "}
-                and I&apos;ll respond whenever I can. I will ignore all
-                soliciting.
+                and I&apos;ll respond as soon as possible.
               </p>
             </div>
           </BlurFade>
